@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Phumelela Mdluli\\Unity\\3dCube\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F75F329-2E02-E11B-B86D-FB29FBFF5ABF}|Assembly-CSharp.csproj|c:\\users\\phumelela mdluli\\unity\\3dcube\\assets\\spincube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F75F329-2E02-E11B-B86D-FB29FBFF5ABF}|Assembly-CSharp.csproj|solutionrelative:assets\\spincube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpinCube.cs",
+              "DocumentMoniker": "C:\\Users\\Phumelela Mdluli\\Unity\\3dCube\\Assets\\SpinCube.cs",
+              "RelativeDocumentMoniker": "Assets\\SpinCube.cs",
+              "ToolTip": "C:\\Users\\Phumelela Mdluli\\Unity\\3dCube\\Assets\\SpinCube.cs",
+              "RelativeToolTip": "Assets\\SpinCube.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T11:42:08.188Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
